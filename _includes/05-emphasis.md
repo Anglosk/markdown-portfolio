@@ -1,0 +1,4 @@
+*bold*
+**italic**
+:happy:
+:sad:
